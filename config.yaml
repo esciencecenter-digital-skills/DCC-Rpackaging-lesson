@@ -69,6 +69,7 @@ episodes:
 - documentation.Rmd
 - data.Rmd
 - vignettes.Rmd
+- sven.Rmd
 
 # Information for Learners
 learners:
