@@ -18,7 +18,7 @@ Often, she sees herself struggling with coding problems. That’s ok, just life,
 
  
 
-Mzkizi was born in South Africa but has been living in Germany ever since his under-graduates. He likes cricket and has to do with watching streams, since the level of cricket competition is abismal in Germany. 
+Mzkizi was born in South Africa but has been living in Germany ever since his under-grad. He likes cricket and likes to watch it on the TV, since the level of cricket competition is abismal in Germany. 
 
  
 
